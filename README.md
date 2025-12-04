@@ -1,5 +1,5 @@
 # Rock Bottom
-Rock Bottom is a Halo CE multiplayer map for MCC, designed for 2v2 competitive slayer. It was created for the [Halo 1 Guide Discord Server](https://discord.gg/6HWxRzuamu) 2025 2v2 map contest.
+Rock Bottom is a Halo CE multiplayer map for MCC, designed for 2v2 competitive slayer. It was created for the [Halo 1 Guide Discord Server](https://discord.gg/6HWxRzuamu) 2025 2v2 map contest. [Subscribe to this map on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3425312311).
 
 ![](screenshot.png)
 
